@@ -19,4 +19,5 @@ Goal:
 Using machine learning to predict surgical outcomes and help physicians plan more effective interventions.
 
 Link to dataset: https://kaggle.com/abbasit/kyphosis-dataset
+
 Link to Code Walkthrough: https://docs.google.com/document/d/1Oet5wkR9YIlq4uSgoNLbnUJpTf7HmdQzgytBcMZW-88/edit?usp=sharing
