@@ -1,5 +1,5 @@
-# ML_Kyphosis_Model
 Machine Learning for Kyphosis Disease Classification
+
 
 About Kyphosis:
 Kyphosis is an excessive forward curvature of the spine that affects between 1 in 200 adolescents in the USA each year, and if left unaddressed can lead to pain and postural issues.
