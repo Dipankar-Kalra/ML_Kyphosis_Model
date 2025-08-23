@@ -13,10 +13,10 @@ Inputs:
 3. Start: the number of the first(topmost) veterbra operated on
 
 Outputs:
-Kyphosis: a factor with levels 'absent' or 'present' indicating if a Kyphosis (a type of deformation) was present after the surgery.
+Kyphosis: a factor with levels 'absent' or 'present' indicating if Kyphosis was present after the surgery.
 
 Goal:
-Using machine learning to predict surgical outcomes and help physicians plan more effective interventions.
+Using Machine Learning to predict surgical outcomes and help physicians plan more effective interventions.
 
 Link to dataset: https://kaggle.com/abbasit/kyphosis-dataset
 
